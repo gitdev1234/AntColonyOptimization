@@ -1,5 +1,5 @@
-# AntColonyOptimization
-optimizing problems by the logic of ant colony food search
+# AntColonyOptimizer
+The AntColonyOptimizer is a program to optimize problems by the logic of social self-organized  ant-colony-food-search.
 
 ##!Attention!
 Please note that this project is developed as a C++ - beginner - project.
